@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top {
+  background-color: rgb(45, 90, 187);
+  color: white;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+.top h1 {
+  font-weight: 400;
+  font-size: 26px;
+}
